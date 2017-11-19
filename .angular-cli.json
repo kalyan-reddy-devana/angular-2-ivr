@@ -11,6 +11,9 @@
         "assets",
         "favicon.ico"
       ],
+      "mock_data":[
+        "mock_data"
+      ],
       "index": "index.html",
       "main": "main.ts",
       "polyfills": "polyfills.ts",
